@@ -1,2 +1,2 @@
-# cute_meme
+# cute-meme
 Cute quokka meme :)
